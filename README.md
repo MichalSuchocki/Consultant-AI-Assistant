@@ -1,2 +1,2 @@
 # Consultant-AI-Assistant
-Assistance to consultants with customer enquiries.
+Support chat to consultants with customer enquiries.
